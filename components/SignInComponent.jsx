@@ -3,7 +3,7 @@ import Form from "./Form";
 
 function SignInComponent() {
   return (
-    <div className="py-10 mr-52 mt-14 ">
+    <div className="py-10 mr-52 mt-11 ">
       <h2 className="text-3xl font-bold text-green-500 mb-2">
         Sign in to Account
       </h2>
