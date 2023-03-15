@@ -3,7 +3,7 @@ import pic from "../public/Logo-Cristi.png";
 
 function Logo() {
   return (
-    <div>
+    <div className="w-3/5 p-5">
       <Image
         src={pic}
         alt="Picture of the author"
