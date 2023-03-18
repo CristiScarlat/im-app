@@ -2,7 +2,7 @@ import React from 'react';
 
 const LandingPage = () => {
   return (
-    <div class="px-4 py-8">
+    <div className="px-4 py-8">
       <h2 className="text-lg font-medium border-b-4 border-green-500 p-2" >Description</h2>
       <h1 className="text-m font-bold text-center p-2">Welcome to Im-App!</h1>
       <p>Im-app is a photo editing app that allows users to manipulate their own photographs to enhance their quality, appearance, or content.</p>
