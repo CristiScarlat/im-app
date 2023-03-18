@@ -14,7 +14,7 @@ function SignUpComponent() {
   // }, [isAuthenticated]);
 
   return (
-    <div className="w-2/5 bg-green-500 text-white rounded-tr-2xl rounded-br-2xl py-36 px-12">
+    <div className="w-2/4 bg-green-500 text-white text-center rounded-tr-2xl rounded-br-2xl py-36 px-12">
       <h2 className="3xl font-bold mb-2">Hello, Friend!</h2>
       <div className="border-2 w-10 border-white inline-block mb-2"></div>
       <p className="mb-10">
@@ -23,8 +23,6 @@ function SignUpComponent() {
       <button className="border-2 border-white rounded-full px-12 mb-9 py-2 inline-block font-semibold hover:bg-white hover:text-green-500">
         Sign Up
       </button>
-      {/* <SignUpForm  /> */}
-      <SignUpFormEx />
     </div>
   );
 }
