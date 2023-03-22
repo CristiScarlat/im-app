@@ -1,4 +1,4 @@
-import { FaFacebookF, FaLinkedinIn, FaGoogle } from "react-icons/fa";
+import { FaFacebookF, FaGoogle } from "react-icons/fa";
 
 import { AiFillGithub } from "react-icons/ai";
 
